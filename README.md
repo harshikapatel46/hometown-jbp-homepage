@@ -8,13 +8,6 @@ This project is a simple and aesthetic tourism website based on my hometown Jaba
 - Image hover effects
 - Sections for attractions, street food, and nature
 
-## 📍 Sections Included
-- Bhedaghat
-- Chausath Yogini Temple
-- Balancing Rock
-- Street Food Culture
-- Dumna Nature Park
-
 ## 🛠️ Tech Used
 - HTML
 - CSS
